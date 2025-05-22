@@ -91,9 +91,10 @@ docker container is available
 
 
 ## Citation 
-@inproceedings{your_wacv2025_citation,
-  title={MFTrans: Multi-Resolution Fusion Transformer for Robust Tumor Segmentation in Whole Slide Images},
-  author={Your Name, Other Authors},
-  booktitle={WACV},
-  year={2025}
+@inproceedings{yang2025mftrans,
+  title={MFTrans: A Multi-Resolution Fusion Transformer for Robust Tumor Segmentation in Whole Slide Images},
+  author={Sungkyu Yang and Woohyun Park and Kwangil Yim and Mansu Kim},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+  year={2025},
+  publisher={IEEE}
 }
